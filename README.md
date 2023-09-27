@@ -1,15 +1,13 @@
 # Final-Project-Tableau
 ## Project/Goals
 The primary goals are to analyze the FIFA 18 player dataset using Tableau to accomplish the following:
+* Create diverse visualizations for deeper insights,
 
-      -     Create diverse visualizations for deeper insights,
- 
-      -     Determine the most critical features among 70 attributes,  
+* Determine the most critical features among 70 attributes,  
 
-      -     Detect patterns and trends and identify critical insights, 
+* Detect patterns and trends and identify critical insights,
 
-      -     Build an interactive data dashboard and ultimately present the findings.
-
+* Build an interactive data dashboard and ultimately present the findings.
 
 ## Process
 ### Step 1: 
@@ -27,11 +25,11 @@ Develop an interactive Tableau dashboard, the fifa18 Dashboard in the workbook (
 ## Results
 Successfully classified data types and identified some missing essential data types. Created six diverse visualizations to explore player attributes and gain insights. Developed an interactive Tableau dashboard that answers questions and presents insights.
 
-On the Dashboard, the different clubs can be searched using the "Search Club" filter, and then the List of Players, category and Player Rating tables show the result and the average club attributes, respectively. Also, different nationality of players can be searched using the "Search Nationality" filter. The total number of players from each nationality can be obtained by hovering on the heatmap.
+On the Dashboard, the different clubs can be searched using the "Search Club" filter, and then the List of Players, Category and Player Rating tables show the result and the average club rating for different attributes, respectively. Also, foreign nationality can be searched using the "Search Nationality" filter. The total number of players from each nationality can be obtained by hovering on the heatmap. With these searches, there are interactions of the club or nationality search with both Wages and Value vs. Age and Overall Ratings vs. Value graphs. 
 
 I discovered exciting patterns, trends, and outliers in player data. The Wages and Value vs. Age bar chart shows that players' value and wages increase until the age of 26 and then a drastic decline. Also, there is an exponential relationship between the overall ratings and players' market value. The R-squared of 0.888 and a p-value less than 0.0001 suggested that the exponential regression model fits the data well, and the relationship between the variables is substantial and statistically significant. This indicates that the overall ratings substantially impact explaining the variation in the players' market value exponentially.
 
-## Challenges 
+ ## Challenges 
 * Ensuring data quality and dealing with missing values, outliers, and inconsistencies in the dataset.
 
 * Balancing the depth of analysis with the need for clear and concise presentation in Tableau.
@@ -47,3 +45,4 @@ I discovered exciting patterns, trends, and outliers in player data. The Wages a
 * Collaborate with domain experts to gain deeper insights into the factors influencing player performance.
 
 * Explore additional data sources, such as player injury history and transfer market data, to enrich the analysis in Tableau.
+
