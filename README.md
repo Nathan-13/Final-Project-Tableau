@@ -1,10 +1,14 @@
 # Final-Project-Tableau
 ## Project/Goals
 The primary goals are to analyze the FIFA 18 player dataset using Tableau to accomplish the following:
-Create diverse visualizations for deeper insights,
-Determine the most critical features among 70 attributes,  
-Detect patterns and trends and identify critical insights,
-Build an interactive data dashboard and ultimately present the findings.
+* Create diverse visualizations for deeper insights,
+
+* Determine the most critical features among 70 attributes,  
+
+* Detect patterns and trends and identify critical insights,
+
+* Build an interactive data dashboard and ultimately present the findings.
+
 ## Process
 ### Step 1: 
 Add the FIFA 18-player dataset to Tableau and evaluate the essential data types.
